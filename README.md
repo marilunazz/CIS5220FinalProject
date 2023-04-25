@@ -25,3 +25,5 @@ We have fine tuned a pre-trained BERT model on Stack Overflow posts. This varian
 ## Results
 The code for the results can be found in the last section of 'Bert522.ipynb', and the data to run this 'data_both_baselines_sample.pkl'. The scores generated were saved in 'scores.pkl'.
 
+## Presentation
+Find our presentation at: https://gamma.app/docs/CIS-5220-Final-Project-fziy8zw8x2q8k5k
