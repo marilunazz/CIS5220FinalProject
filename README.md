@@ -2,7 +2,7 @@
 Our project aims to enhance the user experience on StackOverflow by suggesting relevant, previously answered posts for newly posted questions. Our model will utilize similarity scores and answer quality metrics to provide links to StackOverflow posts that could potentially answer or provide valuable insights for the new question.
 
 ## Pre-Processing
-Data cleaning and pre-processing can be found on the 'Preprocessing.ipynb'.
+Data cleaning and pre-processing can be found on the 'Preprocessing.ipynb'. A sample of thepreprocessed data was saved as 'samples_df.pkl'.
 
 ## Baselines
 Our baselines can be found on the 'Baselines.ipynb'. The data to run this can be found on 'samples_df.pkl', and the output of this notebook is stored in 'data_both_baselines_sample.pkl'.
